@@ -11,7 +11,8 @@ dotnet ef migrations add CreateMigration --startup-project ./ --project ../<your
 
 
 dotnet ef database update --startup-project ./ --project ../<your project name with migrations folder>/  
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/4524047/112213860-76104100-8c6e-11eb-9f11-ac0af6a8142d.png)
+
   
 
 
